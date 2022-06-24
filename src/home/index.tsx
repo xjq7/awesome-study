@@ -1,27 +1,60 @@
+import { useEffect, useMemo, useState } from 'react';
 import data, { Source } from '../data';
-
+import classnames from 'classnames';
 import styles from './index.module.less';
 
 const Component = () => {
-  const renderMenu = (data: Source) => {};
+  const nav = useMemo(() => data.map((o) => o.title), [data]);
 
-  const renderSource = (data: Source) => {};
-
-  const renderContent = (data: Source[]) => {
-    const dfs = (data: Source[], dep?: number) => {
-      return data.map((item) => {
-        if (dep === 0) {
-          return renderMenu(item);
-        }
-        if (dep === 1) {
-          return renderSource(item);
-        }
-      });
-    };
-    return dfs(data, 0);
+  const [selectNav, setSelectNav] = useState<string>();
+  const renderContent = () => {
+    return data.map((o) => {
+      const { title, children } = o;
+      return (
+        <div>
+          <div>{title}</div>
+          <div>
+            {children?.map((o) => {
+              const { title, desc, link } = o;
+              return (
+                <div>
+                  <div>{title}</div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      );
+    });
   };
 
-  return <div className={styles.container}></div>;
+  useEffect(() => {
+    setSelectNav(nav[0]);
+  }, [nav]);
+
+  const renderNav = (nav: string) => {
+    return (
+      <div
+        className={classnames(
+          styles.nav_item,
+          selectNav === nav && styles.nav_item_select
+        )}
+        key={nav}
+        onClick={() => setSelectNav(nav)}
+      >
+        {nav}
+      </div>
+    );
+  };
+
+  return (
+    <div className={styles.container}>
+      <div className={styles.nav}>
+        {nav.map((title: string) => renderNav(title))}
+      </div>
+      <div className={styles.content}>{renderContent()}</div>
+    </div>
+  );
 };
 
 export default Component;
