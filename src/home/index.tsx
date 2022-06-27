@@ -11,14 +11,22 @@ const Component = () => {
     return data.map((o) => {
       const { title, children } = o;
       return (
-        <div>
-          <div>{title}</div>
-          <div>
+        <div className={styles.content} key={title} id={title}>
+          <div className={styles.title}>{title}</div>
+          <div className={styles.sub_content}>
             {children?.map((o) => {
-              const { title, desc, link } = o;
+              const { title, desc = '', link = '' } = o;
               return (
-                <div>
-                  <div>{title}</div>
+                <div
+                  className={styles.sub_content_item}
+                  key={title}
+                  onClick={() => {
+                    window.open(link);
+                  }}
+                >
+                  <div className={styles.sub_title}>{title}</div>
+                  <div className={styles.sub_desc}>{desc}</div>
+                  <div className={styles.sub_link}>{link}</div>
                 </div>
               );
             })}
@@ -34,7 +42,8 @@ const Component = () => {
 
   const renderNav = (nav: string) => {
     return (
-      <div
+      <a
+        href={`#${nav}`}
         className={classnames(
           styles.nav_item,
           selectNav === nav && styles.nav_item_select
@@ -43,7 +52,7 @@ const Component = () => {
         onClick={() => setSelectNav(nav)}
       >
         {nav}
-      </div>
+      </a>
     );
   };
 
