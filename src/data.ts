@@ -55,6 +55,31 @@ const content: Source[] = [
     ],
   },
   {
+    title: '工具箱',
+    children: [
+      {
+        title: 'atoolbox',
+        link: 'http://www.atoolbox.net',
+        desc: '在线工具箱',
+      },
+      {
+        title: 'tool.lu',
+        link: 'https://tool.lu/',
+        desc: '在线工具箱',
+      },
+      {
+        title: 'BFW',
+        link: 'https://tool.bfw.wiki/',
+        desc: '程序员在线工具箱',
+      },
+      {
+        title: '67tool',
+        link: 'https://www.67tool.com/',
+        desc: '即时工具箱',
+      },
+    ],
+  },
+  {
     title: '工具',
     children: [
       { title: 'tinypng', link: 'https://tinypng.com/', desc: '图片压缩' },
@@ -108,21 +133,7 @@ const content: Source[] = [
         link: 'https://www.dooccn.com/',
         desc: '在线运行代码',
       },
-      {
-        title: 'atoolbox',
-        link: 'http://www.atoolbox.net',
-        desc: '在线工具箱',
-      },
-      {
-        title: 'tool.lu',
-        link: 'https://tool.lu/',
-        desc: '在线工具箱',
-      },
-      {
-        title: 'BFW',
-        link: 'https://tool.bfw.wiki/',
-        desc: '程序员在线工具箱',
-      },
+
       {
         title: 'linux-command',
         link: 'https://wangchujiang.com/linux-command/',
@@ -172,6 +183,11 @@ const content: Source[] = [
       {
         title: 'awesome-react-native',
         link: 'https://www.awesome-react-native.com',
+        desc: '',
+      },
+      {
+        title: 'awesome-go',
+        link: 'https://awesome-go.com/',
         desc: '',
       },
     ],
@@ -247,7 +263,7 @@ const content: Source[] = [
       {
         title: '正则表达式手册',
         link: 'https://tool.oschina.net/uploads/apidocs/jquery/regexp.html',
-        desc: '',
+        desc: '快捷查阅正则表达式',
       },
     ],
   },

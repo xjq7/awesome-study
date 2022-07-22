@@ -26,7 +26,6 @@ const Component = () => {
                 >
                   <div className={styles.sub_title}>{title}</div>
                   <div className={styles.sub_desc}>{desc}</div>
-                  <div className={styles.sub_link}>{link}</div>
                 </div>
               );
             })}
