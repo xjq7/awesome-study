@@ -11,7 +11,7 @@ const content: Source[] = [
     children: [
       { title: 'v2ex', link: 'https://www.v2ex.com', desc: '论坛' },
       { title: '掘金', link: 'https://juejin.im' },
-      { title: 'mo.fish', link: 'https://mo.fish', desc: '摸鱼网站' },
+      { title: '鱼塘热榜', link: 'https://mo.fish', desc: '摸鱼网站' },
       { title: 'dev.to', link: 'https://mo.fish', desc: '社区' },
       { title: 'digitalocean', link: 'https://digitalocean.com', desc: '教程' },
       {
@@ -149,6 +149,11 @@ const content: Source[] = [
         link: 'https://github.com/acmesh-official/acme.sh',
         desc: '管理 letsencrypt 证书的脚本工具',
       },
+      {
+        title: '墨滴',
+        link: 'https://mdnice.com/',
+        desc: '微信排版 markdown 编辑器',
+      },
     ],
   },
   {
@@ -189,6 +194,11 @@ const content: Source[] = [
         title: 'awesome-go',
         link: 'https://awesome-go.com/',
         desc: '',
+      },
+      {
+        title: 'awesome-front-end',
+        link: 'https://github.com/helloqingfeng/Awsome-Front-End-learning-resource',
+        desc: 'GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）',
       },
     ],
   },
@@ -314,6 +324,11 @@ const content: Source[] = [
         title: 'regexone',
         link: 'https://regexone.com',
         desc: '正则表达式学习',
+      },
+      {
+        title: 'CS自学指南',
+        link: 'https://csdiy.wiki/',
+        desc: '计算机的自学指南',
       },
     ],
   },
