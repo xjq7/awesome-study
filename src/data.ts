@@ -21,6 +21,11 @@ const content: Source[] = [
       },
       { title: 'medium', link: 'https://medium.com', desc: '博客' },
       { title: 'acwing', link: 'https://www.acwing.com', desc: '算法编程' },
+      {
+        title: 'Go 语言中文网',
+        link: 'https://studygolang.com/',
+        desc: '',
+      },
     ],
   },
   {
@@ -52,6 +57,16 @@ const content: Source[] = [
         link: 'https://pixabay.com/zh/',
         desc: '高清图片素材库',
       },
+      {
+        title: 'getemoji',
+        link: 'https://getemoji.com/',
+        desc: 'emoji表情',
+      },
+      {
+        title: 'emojicopy',
+        link: 'https://www.emojicopy.com/',
+        desc: 'emoji表情',
+      },
     ],
   },
   {
@@ -76,6 +91,11 @@ const content: Source[] = [
         title: '67tool',
         link: 'https://www.67tool.com/',
         desc: '即时工具箱',
+      },
+      {
+        title: '发现导航',
+        link: 'https://www.nav3.cn/',
+        desc: '导航站点',
       },
     ],
   },
@@ -154,6 +174,10 @@ const content: Source[] = [
         link: 'https://mdnice.com/',
         desc: '微信排版 markdown 编辑器',
       },
+      {
+        title: '在线 ast 语法树解析',
+        link: 'https://astexplorer.net/',
+      },
     ],
   },
   {
@@ -199,6 +223,16 @@ const content: Source[] = [
         title: 'awesome-front-end',
         link: 'https://github.com/helloqingfeng/Awsome-Front-End-learning-resource',
         desc: 'GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）',
+      },
+      {
+        title: 'CS-Awesome-Courses',
+        link: 'https://github.com/jackwener/CS-Awesome-Courses',
+        desc: '计算机的优秀课程',
+      },
+      {
+        title: 'Awesome-GitHub-Repo',
+        link: 'https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo',
+        desc: 'GitHub 上高质量、有趣的开源项目',
       },
     ],
   },
@@ -329,6 +363,11 @@ const content: Source[] = [
         title: 'CS自学指南',
         link: 'https://csdiy.wiki/',
         desc: '计算机的自学指南',
+      },
+      {
+        title: 'patterns',
+        link: 'https://www.patterns.dev/',
+        desc: '关于设计模式、组件模式的一本书',
       },
     ],
   },
