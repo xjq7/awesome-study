@@ -28,7 +28,7 @@
     width: 1200px;
     margin-top: 10px;
     .title {
-      font-size: 26px;
+      font-size: 22px;
       font-weight: 500;
       height: 40px;
       line-height: 40px;
@@ -38,6 +38,7 @@
       flex-direction: row;
       flex-wrap: wrap;
       .sub_content_item {
+        width: 200px;
         padding: 10px 20px;
         margin: 8px 5px;
         border: 1px solid #ccc;
@@ -46,20 +47,28 @@
         -webkit-transition: all 0.5s ease-out;
         transition: all 0.5s ease-out;
         .sub_title {
-          font-size: 20px;
+          font-size: 18px;
           height: 30px;
           line-height: 30px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
         }
         .sub_desc {
-          font-size: 14px;
-          height: 30px;
-          line-height: 30px;
+          font-size: 12px;
+          margin: 5px 0;
+          color: #999;
         }
         .sub_link {
           color: #999;
-          font-size: 14px;
+          font-size: 12px;
           height: 20px;
           line-height: 20px;
+          overflow: hidden;
+          white-space: nowrap;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
         }
       }
       .sub_content_item:hover {
