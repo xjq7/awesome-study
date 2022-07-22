@@ -26,6 +26,11 @@ const content: Source[] = [
         link: 'https://studygolang.com/',
         desc: '',
       },
+      {
+        title: 'C 语言中文网',
+        link: 'http://c.biancheng.net/',
+        desc: 'C、CPP 语言教程',
+      },
     ],
   },
   {
@@ -46,6 +51,11 @@ const content: Source[] = [
         title: 'zhongguose',
         link: 'http://zhongguose.com',
         desc: '中国色',
+      },
+      {
+        title: 'color hunt',
+        link: 'https://colorhunt.co/',
+        desc: '',
       },
       {
         title: 'fontspace',
@@ -308,6 +318,11 @@ const content: Source[] = [
         title: '正则表达式手册',
         link: 'https://tool.oschina.net/uploads/apidocs/jquery/regexp.html',
         desc: '快捷查阅正则表达式',
+      },
+      {
+        title: 'devdocs',
+        link: 'https://devdocs.io/',
+        desc: '开发者文档手册',
       },
     ],
   },
