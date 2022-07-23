@@ -244,6 +244,10 @@ const content: Source[] = [
         link: 'https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo',
         desc: 'GitHub 上高质量、有趣的开源项目',
       },
+      {
+        title: 'awesome-vue',
+        link: 'https://github.com/vuejs/awesome-vue',
+      },
     ],
   },
   {
