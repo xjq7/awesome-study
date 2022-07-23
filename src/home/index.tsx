@@ -11,7 +11,7 @@ const Component = () => {
     return data.map((o) => {
       const { title, children } = o;
       return (
-        <div className={styles.content} key={title} id={title}>
+        <div className={styles.content_item} key={title} id={title}>
           <div className={styles.title}>{title}</div>
           <div className={styles.sub_content}>
             {children?.map((o) => {
