@@ -328,6 +328,51 @@ const content: Source[] = [
         link: 'https://devdocs.io/',
         desc: '开发者文档手册',
       },
+      {
+        title: 'overapi',
+        link: 'https://overapi.com/',
+        desc: '开发者API查询手册',
+      },
+      {
+        title: '网道',
+        link: 'https://wangdoc.com/',
+        desc: '开发者文档手册',
+      },
+    ],
+  },
+  {
+    title: '文档中心',
+    children: [
+      {
+        title: 'Typescript 中文文档',
+        link: 'https://www.tslang.cn/index.html',
+        desc: '',
+      },
+      {
+        title: 'pnpm',
+        link: 'https://www.pnpm.cn/',
+        desc: 'pnpm 官网(速度快、节省磁盘空间的软件包管理器)',
+      },
+      {
+        title: 'prettier',
+        link: 'https://prettier.io/',
+        desc: 'prettier 官网(代码格式化)',
+      },
+      {
+        title: 'vite',
+        link: 'https://vitejs.dev/',
+        desc: '构建工具',
+      },
+      {
+        title: 'Go dev doc',
+        link: 'https://go.dev/',
+        desc: 'Go 语言文档',
+      },
+      {
+        title: 'Gitlab',
+        link: 'https://docs.gitlab.com/',
+        desc: 'Gitlab 文档',
+      },
     ],
   },
   {
@@ -387,6 +432,16 @@ const content: Source[] = [
         title: 'patterns',
         link: 'https://www.patterns.dev/',
         desc: '关于设计模式、组件模式的一本书',
+      },
+      {
+        title: 'typescript deep dive',
+        link: 'https://basarat.gitbook.io/typescript/',
+        desc: 'typescript book',
+      },
+      {
+        title: 'typescript deep dive chinese',
+        link: 'https://jkchao.github.io/typescript-book-chinese/',
+        desc: 'typescript deep dive 翻译版',
       },
     ],
   },
