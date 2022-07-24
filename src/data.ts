@@ -248,6 +248,16 @@ const content: Source[] = [
         title: 'awesome-vue',
         link: 'https://github.com/vuejs/awesome-vue',
       },
+      {
+        title: 'awesome-mysql',
+        link: 'http://shlomi-noach.github.io/awesome-mysql/',
+        desc: 'A curated list of awesome MySQL free and opensource software',
+      },
+      {
+        title: 'awesome-mysql-cn',
+        link: 'https://github.com/jobbole/awesome-mysql-cn',
+        desc: 'awesome-mysql 中文版',
+      },
     ],
   },
   {
