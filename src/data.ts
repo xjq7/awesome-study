@@ -10,7 +10,7 @@ const content: Source[] = [
     title: '网站',
     children: [
       { title: 'v2ex', link: 'https://www.v2ex.com', desc: '论坛' },
-      { title: '掘金', link: 'https://juejin.im' },
+      { title: '掘金', link: 'https://juejin.im', desc: '技术社区' },
       { title: '鱼塘热榜', link: 'https://mo.fish', desc: '摸鱼网站' },
       { title: 'dev.to', link: 'https://mo.fish', desc: '社区' },
       { title: 'digitalocean', link: 'https://digitalocean.com', desc: '教程' },
@@ -24,7 +24,7 @@ const content: Source[] = [
       {
         title: 'Go 语言中文网',
         link: 'https://studygolang.com/',
-        desc: '',
+        desc: 'Go 语言文章、项目、图书、资源',
       },
       {
         title: 'C 语言中文网',
