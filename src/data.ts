@@ -383,6 +383,11 @@ const content: Source[] = [
         link: 'https://docs.gitlab.com/',
         desc: 'Gitlab 文档',
       },
+      {
+        title: 'Markdown 官方教程',
+        link: 'https://markdown.com.cn/',
+        desc: 'Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档',
+      },
     ],
   },
   {
