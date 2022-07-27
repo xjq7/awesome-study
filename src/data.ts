@@ -258,6 +258,21 @@ const content: Source[] = [
         link: 'https://github.com/jobbole/awesome-mysql-cn',
         desc: 'awesome-mysql 中文版',
       },
+      {
+        title: 'awesome-guidelines',
+        link: 'https://github.com/Kristories/awesome-guidelines',
+        desc: '代码风格指南',
+      },
+      {
+        title: 'free-programming-books',
+        link: 'https://github.com/EbookFoundation/free-programming-books',
+        desc: '各种语言的免费学习资源列表',
+      },
+      {
+        title: 'awesome',
+        link: 'https://github.com/sindresorhus/awesome',
+        desc: 'Awesome lists about all kinds of interesting topics',
+      },
     ],
   },
   {
@@ -457,6 +472,11 @@ const content: Source[] = [
         title: 'typescript deep dive chinese',
         link: 'https://jkchao.github.io/typescript-book-chinese/',
         desc: 'typescript deep dive 翻译版',
+      },
+      {
+        title: 'developer-roadmap',
+        link: 'https://github.com/kamranahmedse/developer-roadmap',
+        desc: 'Roadmap to becoming a developer in 2022',
       },
     ],
   },
