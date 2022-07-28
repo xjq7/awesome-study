@@ -478,6 +478,11 @@ const content: Source[] = [
         link: 'https://github.com/kamranahmedse/developer-roadmap',
         desc: 'Roadmap to becoming a developer in 2022',
       },
+      {
+        title: 'GitHub中文排行榜',
+        link: 'https://github.com/GrowingGit/GitHub-Chinese-Top-Charts',
+        desc: '帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果',
+      },
     ],
   },
 ];
