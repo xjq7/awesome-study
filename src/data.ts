@@ -483,6 +483,11 @@ const content: Source[] = [
         link: 'https://github.com/GrowingGit/GitHub-Chinese-Top-Charts',
         desc: '帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果',
       },
+      {
+        title: 'mysql-tutorial',
+        link: 'https://github.com/jaywcjlove/mysql-tutorial',
+        desc: 'MySQL入门教程（MySQL tutorial book）',
+      },
     ],
   },
 ];
