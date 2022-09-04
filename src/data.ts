@@ -495,5 +495,15 @@ const content: Source[] = [
       },
     ],
   },
+  {
+    title: '博客',
+    children: [
+      {
+        title: 'antfu',
+        link: 'https://antfu.me/posts',
+        desc: '',
+      },
+    ],
+  },
 ];
 export default content;
