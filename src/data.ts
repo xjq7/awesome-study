@@ -193,6 +193,16 @@ const content: Source[] = [
         link: 'https://regex101.com/',
         desc: '可视化正则',
       },
+      {
+        title: 'jsoncrack',
+        link: 'https://jsoncrack.com/',
+        desc: '优雅的 JSON 数据可视化工具',
+      },
+      {
+        title: 'regex-vis',
+        link: 'https://regex-vis.com/',
+        desc: '可视化正则',
+      },
     ],
   },
   {
