@@ -1,23 +1,22 @@
 <template>
   <a class="item" target="_blank" :href="data.href">
-      <div class="logo">
-        <el-image :src="data.logo" fit="cover" lazy></el-image>
-        <span>{{data.name}}</span>
-      </div>
-      <div class="desc">{{data.desc || '这个网站什么描述也没有...'}}</div>
+    <div class="logo">
+      <el-image :src="data.logo" fit="cover" lazy></el-image>
+      <span>{{ data.name }}</span>
+    </div>
+    <div class="desc">{{ data.desc || '这个网站什么描述也没有...' }}</div>
   </a>
 </template>
 
 <script>
 export default {
   props: {
-    data: Object
-  }
+    data: Object,
+  },
 };
 </script>
 
 <style lang="scss" scoped>
-
 .main {
   .box {
     overflow: hidden;
@@ -86,12 +85,10 @@ export default {
 }
 
 .el-image {
-  width: 35px;
-  height: 35px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   overflow: hidden;
   margin-right: 5px;
 }
 </style>
-
-

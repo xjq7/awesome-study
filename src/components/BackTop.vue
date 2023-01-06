@@ -14,8 +14,8 @@ export default {
     goTop() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -35,8 +35,7 @@ export default {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
-[class^=el-icon-] {
+[class^='el-icon-'] {
   font-size: 20px;
 }
 </style>
-

@@ -1,21 +1,21 @@
 export default class Storage {
-  constructor (prefix) {
-    this.prefix = prefix ? `${prefix}_` : ''
+  constructor(prefix) {
+    this.prefix = prefix ? `${prefix}_` : '';
   }
-  get (key) {
+  get(key) {
     if (localStorage.getItem(this.prefix + key) !== 'undefined') {
-      return JSON.parse(localStorage.getItem(this.prefix + key))
+      return JSON.parse(localStorage.getItem(this.prefix + key));
     } else {
-      return null
+      return null;
     }
   }
-  set (key, value) {
-    localStorage.setItem(this.prefix + key, JSON.stringify(value))
+  set(key, value) {
+    localStorage.setItem(this.prefix + key, JSON.stringify(value));
   }
-  remove (key) {
-    localStorage.removeItem(this.prefix + key)
+  remove(key) {
+    localStorage.removeItem(this.prefix + key);
   }
-  clear () {
-    localStorage.clear()
+  clear() {
+    localStorage.clear();
   }
 }

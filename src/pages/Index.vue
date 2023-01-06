@@ -14,23 +14,15 @@
             text-color="#fff"
             active-text-color="#fff"
           >
-            <el-submenu
-              :index="item.category"
-              v-for="item in data"
-              :key="item.category"
-            >
+            <el-submenu :index="item.category" v-for="item in data" :key="item.category">
               <template slot="title">
                 <i :class="item.icon"></i>&nbsp;
                 <span slot="title">{{ item.category }}</span>
               </template>
-              <el-menu-item
-                :index="nav.name"
-                v-for="nav in item.children"
-                :key="nav.name"
-              >
+              <el-menu-item :index="nav.name" v-for="nav in item.children" :key="nav.name">
                 <a :href="`#${item.category + '_' + nav.classify}`">
                   <i :class="nav.icon"></i>&nbsp;
-                  <span slot="title" >{{ nav.classify }}</span>
+                  <span slot="title">{{ nav.classify }}</span>
                 </a>
               </el-menu-item>
             </el-submenu>
@@ -44,11 +36,7 @@
         <div id="menu-box">
           <div id="menu">
             <input type="checkbox" id="menu-form" />
-            <label
-              for="menu-form"
-              class="menu-spin"
-              @click="isLeftbar = !isLeftbar"
-            >
+            <label for="menu-form" class="menu-spin" @click="isLeftbar = !isLeftbar">
               <div class="line diagonal line-1"></div>
               <div class="line horizontal"></div>
               <div class="line diagonal line-2"></div>
@@ -69,11 +57,7 @@
                   {{ subItem.classify }}
                 </div>
               </div>
-              <NavItem
-                :data="sub"
-                v-for="sub in subItem.sites"
-                :key="sub.name"
-              />
+              <NavItem :data="sub" v-for="sub in subItem.sites" :key="sub.name" />
             </div>
           </div>
         </div>
@@ -148,8 +132,7 @@ export default {
     },
     dataScroll() {
       const that = this;
-      let scrollTop =
-        document.documentElement.scrollTop || document.body.scrollTop;
+      let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
       let allSite = document.querySelectorAll('.box');
       for (let i = 0; i < allSite.length; i++) {
         if (scrollTop >= allSite[i].offsetTop) {

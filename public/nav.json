@@ -318,6 +318,12 @@
             "href": "https://www.nav3.cn/#/light",
             "desc": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
             "logo": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png"
+          },
+          {
+            "name": "极客猿梦导航",
+            "href": "https://nav.geekape.net/",
+            "desc": "专注独立开发者的导航站",
+            "logo": "https://nav.geekape.net/logo-nav-icon.png"
           }
         ]
       },

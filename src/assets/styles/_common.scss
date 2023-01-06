@@ -108,7 +108,7 @@
   position: sticky;
   top: 0;
   z-index: 2;
-  box-shadow: 1px 1px 8px #e0ddf;
+  box-shadow: 1px 1px 8px #cfcdd8;
   height: 50px;
   #menu {
     * {
@@ -116,10 +116,11 @@
       -webkit-transition: all 0.3s;
       box-sizing: border-box;
     }
-    height: 50px;
-    width: 40px;
+    height: 30px;
+    width: 28px;
     position: absolute;
     right: 10px;
+    top: 8px;
     input[type="checkbox"] {
       display: none;
     }
@@ -142,7 +143,7 @@
       z-index: 99;
       height: 100%;
       width: 100%;
-      top: 10px;
+      top: 6px;
       left: 0;
       .line {
         position: absolute;
