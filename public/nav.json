@@ -36,6 +36,12 @@
             "href": "https://medium.com",
             "desc": "一个非常流行的阅读与写作平台",
             "logo": "https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg"
+          },
+          {
+            "name": "墨滴",
+            "href": "https://mdnice.com/",
+            "desc": "墨滴社区是一个看颜值的文章社区，技术、数学、文学文章汇集，极具趣味性，其开发的 mdnice 编辑器是一款 Markdown 微信编辑器,拥有良好的兼容性、海量主题样式、免费的图床。GitHub、StackOverflow、稀土掘金、简书的用户也能在这里有所收益。",
+            "logo": "https://mdnice.com/favicon.svg"
           }
         ]
       },
@@ -108,25 +114,13 @@
             "href": "https://colorhunt.co/",
             "desc": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
             "logo": "https://colorhunt.co/img/color-hunt-logo-face.svg"
-          },
-          {
-            "name": "dev.to",
-            "href": "https://dev.to/",
-            "desc": "技术社区",
-            "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
-          },
-          {
-            "name": "digitalocean",
-            "href": "https://digitalocean.com",
-            "desc": "教程",
-            "logo": "https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png"
           }
         ]
       },
       {
         "classify": "图片",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "Pixabay",
             "href": "https://pixabay.com/zh/",
@@ -138,7 +132,7 @@
       {
         "classify": "Emoj",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "Get Emoji",
             "href": "https://getemoji.com/",
@@ -156,7 +150,7 @@
       {
         "classify": "字体",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "Fontspace",
             "href": "https://www.fontspace.com",
@@ -168,7 +162,7 @@
       {
         "classify": "设计",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "Collectui",
             "href": "https://collectui.com/designs",
@@ -180,7 +174,7 @@
       {
         "classify": "电子书",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "书籍知识库",
             "href": "https://book.zhishikoo.com",
@@ -210,7 +204,7 @@
       {
         "classify": "Awesome 系列",
         "icon": "czs-bookmark-l",
-        "sites":[
+        "sites": [
           {
             "name": "花裤衩的个人收藏夹",
             "href": "https://panjiachen.github.io/awesome-bookmarks/",
@@ -242,9 +236,45 @@
             "logo": "https://github.githubassets.com/favicons/favicon.png"
           },
           {
-            "name": "awesome-vue",
+            "name": "Awesome-vue",
             "href": "https://github.com/vuejs/awesome-vue",
             "desc": "A curated list of awesome things related to Vue.js",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Awesome-GitHub-Repo",
+            "href": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+            "desc": "收集整理 GitHub 上高质量、有趣的开源项目",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Awesome-mysql",
+            "href": "http://shlomi-noach.github.io/awesome-mysql/",
+            "desc": "A curated list of awesome MySQL software, libraries, tools and resources",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Awesome-mysql-cn",
+            "href": "https://github.com/jobbole/awesome-mysql-cn",
+            "desc": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Awesome-guidelines",
+            "href": "https://github.com/Kristories/awesome-guidelines",
+            "desc": "A curated list of high quality coding style conventions and standards.",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Free-programming-books",
+            "href": "https://github.com/EbookFoundation/free-programming-books",
+            "desc": "Freely available programming books",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "awesome",
+            "href": "https://github.com/sindresorhus/awesome",
+            "desc": "😎 Awesome lists about all kinds of interesting topics",
             "logo": "https://github.githubassets.com/favicons/favicon.png"
           }
         ]
@@ -314,16 +344,16 @@
             "logo": "https://jinaconvert.com/favicon.ico"
           },
           {
-            "name": "67tool",
-            "href": "https://www.67tool.com/",
-            "desc": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
-            "logo": "https://www.67tool.com/favicon.ico"
+            "name": "onlineimagetool",
+            "href": "https://www.onlineimagetool.com/zh/",
+            "desc": "免费在线优化图片-没有使用限制，没有文件大小限制。一键即可批量处理图片。",
+            "logo": "https://www.onlineimagetool.com/resources/static/1.0.0/images/logo/icon_logo.png"
           },
           {
-            "name": "发现导航",
-            "href": "https://www.nav3.cn/#/light",
-            "desc": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-            "logo": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png"
+            "name": "tinypng",
+            "href": "https://tinypng.com/",
+            "desc": "Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!",
+            "logo": "https://tinypng.com/images/favicon.ico"
           }
         ]
       },
@@ -338,40 +368,298 @@
             "logo": "https://www.compresss.com/favicon.ico"
           },
           {
-            "name": "iLoveIMG",
-            "href": "https://www.iloveimg.com/zh-cn",
-            "desc": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
-            "logo": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
-          },
-          {
-            "name": "jinaconvert",
-            "href": "https://tool.bfw.wiki/",
-            "desc": "在线免费转化所有的图片格式，支持的图片格式包括：JPG, PNG, Gif, BMP, tiff, ico, pnm, pbm, ppm, pgm和svg……",
-            "logo": "https://jinaconvert.com/favicon.ico"
-          },
-          {
-            "name": "onlineimagetool",
-            "href": "https://www.onlineimagetool.com/zh/",
-            "desc": "免费在线优化图片-没有使用限制，没有文件大小限制。一键即可批量处理图片。",
-            "logo": "https://www.onlineimagetool.com/resources/static/1.0.0/images/logo/icon_logo.png"
-          },
-          {
             "name": "onlineconvertfree",
             "href": "https://onlineconvertfree.com/zh/",
             "desc": "使用OnlineConvertFree在线免费转换软件，能既免费又快转换各种文件、图片、视频、音频和照片等。",
             "logo": "https://onlineconvertfree.com/favicon.ico"
           },
           {
-            "name": "tinypng",
-            "href": "https://tinypng.com/",
-            "desc": "Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!",
-            "logo": "https://tinypng.com/images/favicon.ico"
-          },
-          {
             "name": "bearaudiotool",
             "href": "https://www.bearaudiotool.com/zh",
             "desc": "一个免费的在线MP3剪辑器，你可以直接在浏览器里剪切，裁剪，合并，分割你的音频文件。不用安装其它软件，也不用上传音频文件到服务器。",
             "logo": "https://www.bearaudiotool.com/img/favicon.ico"
+          }
+        ]
+      },
+      {
+        "classify": "其他",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "jsoncn",
+            "href": "https://www.json.cn/",
+            "desc": "Json中文网致力于在中国推广Json,并提供相关的Json解析、验证、格式化、压缩、编辑器以及Json与XML相互转换等服务",
+            "logo": "https://www.json.cn/favicon.ico"
+          },
+          {
+            "name": "linux-command",
+            "href": "https://wangchujiang.com/linux-command/",
+            "desc": "Linux命令搜索引擎:最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。",
+            "logo": "https://wangchujiang.com/linux-command/img/favicon.ico"
+          },
+          {
+            "name": "regex101",
+            "href": "https://regex101.com/",
+            "desc": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET.",
+            "logo": "https://regex101.com/static/assets/favicon.ico"
+          },
+          {
+            "name": "jsoncrack",
+            "href": "https://jsoncrack.com/",
+            "desc": "Simple visualization tool for your JSON data. No forced structure, paste your JSON and view it instantly.",
+            "logo": "https://jsoncrack.com/favicon.ico"
+          },
+          {
+            "name": "regex-vis",
+            "href": "https://regex-vis.com/",
+            "desc": "Regex visualizer & editor, make the regular expression easier.",
+            "logo": "https://regex-vis.com/favicon.png"
+          },
+          {
+            "name": "acme.sh",
+            "href": "https://github.com/acmesh-official/acme.sh",
+            "desc": "A pure Unix shell script implementing ACME client protocol",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "certbot",
+            "href": "https://certbot.eff.org/",
+            "desc": "免费申请 https 证书",
+            "logo": "https://certbot.eff.org/favicon.ico"
+          },
+          {
+            "name": "astexplorer",
+            "href": "https://astexplorer.net/",
+            "desc": "在线 ast 语法树解析",
+            "logo": "https://astexplorer.net/favicon.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "学习资料",
+    "icon": "czs-bookmark-l",
+    "children": [
+      {
+        "classify": "技术周刊",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "前端精读周刊",
+            "href": "https://github.com/ascoders/weekly",
+            "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "前端早报",
+            "href": "https://github.com/wubaiqing/zaobao",
+            "desc": "每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "TNT-Weekly",
+            "href": "https://github.com/tnfe/TNT-Weekly",
+            "desc": "🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "WecTeam 前端周刊",
+            "href": "https://github.com/wecteam/weekly",
+            "desc": "WecTeam 前端周刊，每周五发布",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "每日时报",
+            "href": "https://wubaiqing.github.io/zaobao/",
+            "desc": "每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。",
+            "logo": ""
+          }
+        ]
+      },
+      {
+        "classify": "技术自媒体",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "木易杨前端进阶",
+            "href": "https://muyiy.cn/",
+            "desc": "高级前端进阶之路",
+            "logo": "https://muyiy.cn/favicon.ico"
+          },
+          {
+            "name": "五月君",
+            "href": "https://www.nodejs.red/#/README",
+            "desc": "Nodejs技术栈",
+            "logo": "https://www.nodejs.red/favicon.ico"
+          },
+          {
+            "name": "跟煎鱼学 Go",
+            "href": "https://eddycjy.gitbook.io/golang",
+            "desc": "跟煎鱼学 Go",
+            "logo": "https://1029297742-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-Lk9G8sFwt2VwCzw84_R%2Favatar.png?generation=1563541116676259&alt=media"
+          },
+          {
+            "name": "每日时报",
+            "href": "https://wubaiqing.github.io/zaobao/",
+            "desc": "每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。",
+            "logo": ""
+          }
+        ]
+      },
+      {
+        "classify": "手册",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "caniuse",
+            "href": "https://caniuse.com",
+            "desc": "'Can I use' provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+            "logo": "https://caniuse.com/img/favicon-128.png"
+          },
+          {
+            "name": "正则表达式手册",
+            "href": "https://tool.oschina.net/uploads/apidocs/jquery/regexp.html",
+            "desc": "快捷查阅正则表达式",
+            "logo": "https://tool.oschina.net/favicon.ico"
+          },
+          {
+            "name": "devdocs",
+            "href": "https://devdocs.io/",
+            "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…",
+            "logo": "https://devdocs.io/favicon.ico"
+          },
+          {
+            "name": "overapi",
+            "href": "https://overapi.com/",
+            "desc": "OverAPI.com is a site collecting all the cheatsheets,all!",
+            "logo": "https://overapi.com/favicon.ico"
+          },
+          {
+            "name": "网道 - 互联网开发文档",
+            "href": "https://wangdoc.com/",
+            "desc": "网道（WangDoc.com）是一个文档网站，提供互联网开发文档",
+            "logo": "https://wangdoc.com/assets/icons/favicon-32x32.png"
+          }
+        ]
+      },
+      {
+        "classify": "学习指南",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "Underscore Analysis",
+            "href": "https://github.com/lessfish/underscore-analysis",
+            "desc": "underscore-1.8.3.js 源码解读 & 系列文章",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "30-seconds-of-code",
+            "href": "https://github.com/30-seconds/30-seconds-of-code",
+            "desc": "Short JavaScript code snippets for all your development needs",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "JavaScript Questions",
+            "href": "https://github.com/lydiahallie/javascript-questions",
+            "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Utility library for JavaScript",
+            "href": "https://licia.liriliri.io/",
+            "desc": "Licia: Useful Utility Collection with Zero Dependencies:)",
+            "logo": "https://licia.liriliri.io/favicon.ico"
+          },
+          {
+            "name": "hellogithub",
+            "href": "https://hellogithub.com/",
+            "desc": "分享 GitHub 上有趣入门级的开源项目",
+            "logo": "https://hellogithub.com/favicon/favicon-32x32.png"
+          },
+          {
+            "name": "Airbnb JavaScript Style Guide",
+            "href": "https://github.com/airbnb/javascript",
+            "desc": "JavaScript Style Guide",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "ES6 入门教程",
+            "href": "https://es6.ruanyifeng.com/",
+            "desc": "ECMAScript 6入门",
+            "logo": "https://es6.ruanyifeng.com/favicon.ico"
+          },
+          {
+            "name": "OI Wiki",
+            "href": "https://oi-wiki.org/",
+            "desc": "OI Wiki 是一个编程竞赛知识整合站点，提供有趣又实用的编程竞赛知识以及其他有帮助的内容，帮助广大编程竞赛爱好者更快更深入地学习编程竞赛",
+            "logo": "https://oi-wiki.org/favicon.ico"
+          },
+          {
+            "name": "Regexone",
+            "href": "https://regexone.com",
+            "desc": "RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs",
+            "logo": "https://regexone.com/cs/images/favicon.png"
+          },
+          {
+            "name": "Patterns",
+            "href": "https://www.patterns.dev/",
+            "desc": "Improve how you architect webapps Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with...",
+            "logo": "https://www.patterns.dev/img/favicon/favicon-192x192.png?hash=b4b7ad3f7c"
+          },
+          {
+            "name": "CS 自学指南",
+            "href": "https://csdiy.wiki/",
+            "desc": "CS 自学指南",
+            "logo": "https://csdiy.wiki/images/favicon.ico"
+          },
+          {
+            "name": "TypeScript Deep Dive",
+            "href": "https://basarat.gitbook.io/typescript/",
+            "desc": "深入理解 TypeScript",
+            "logo": "https://image.xjq.icu/2023/1/6/1672995460786_TypeScript%20Deep%20Dive.png"
+          },
+          {
+            "name": "TypeScript Deep Dive Chinese",
+            "href": "https://jkchao.github.io/typescript-book-chinese/",
+            "desc": "深入理解 TypeScript 中文版",
+            "logo": "https://image.xjq.icu/2023/1/6/1672995460786_TypeScript%20Deep%20Dive.png"
+          },
+          {
+            "name": "developer-roadmap",
+            "href": "https://github.com/kamranahmedse/developer-roadmap",
+            "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "GitHub 中文排行榜",
+            "href": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+            "desc": "GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "mysql-tutorial",
+            "href": "https://github.com/jaywcjlove/mysql-tutorial",
+            "desc": "MySQL入门教程（MySQL tutorial book）",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          }
+        ]
+      },
+      {
+        "classify": "博客",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "冴羽的博客",
+            "href": "https://github.com/mqyqingfeng/Blog",
+            "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "antfu",
+            "href": "https://antfu.me/posts",
+            "desc": "Anthony Fu's Portfolio",
+            "logo": "https://antfu.me/favicon.svg"
           }
         ]
       }
