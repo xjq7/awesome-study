@@ -1,0 +1,380 @@
+[
+  {
+    "category": "社区",
+    "icon": "czs-bookmark-l",
+    "children": [
+      {
+        "classify": "技术社区",
+        "icon": "czs-analysis",
+        "sites": [
+          {
+            "name": "掘金",
+            "href": "https://juejin.cn/",
+            "desc": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。",
+            "logo": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png"
+          },
+          {
+            "name": "dev.to",
+            "href": "https://dev.to/",
+            "desc": "A constructive and inclusive social network for software developers. With you every step of your journey.",
+            "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+          },
+          {
+            "name": "Digitalocean",
+            "href": "https://digitalocean.com",
+            "desc": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+            "logo": "https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png"
+          },
+          {
+            "name": "Stackoverflow",
+            "href": "https://stackoverflow.com",
+            "desc": "Stack Overflow | The World’s Largest Online Community for Developers",
+            "logo": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+          },
+          {
+            "name": "medium",
+            "href": "https://medium.com",
+            "desc": "一个非常流行的阅读与写作平台",
+            "logo": "https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg"
+          }
+        ]
+      },
+      {
+        "classify": "论坛",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "v2ex",
+            "href": "https://www.v2ex.com",
+            "desc": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+            "logo": "https://v2ex.com/static/favicon.ico"
+          },
+          {
+            "name": "鱼塘热榜",
+            "href": "https://mo.fish",
+            "desc": "鱼塘热榜提供了国内外各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等,在这里你能够轻松了解全网最新资讯",
+            "logo": "https://www.0daydown.com/favicon.ico"
+          }
+        ]
+      },
+      {
+        "classify": "教学",
+        "icon": "czs-analysis",
+        "sites": [
+          {
+            "name": "acwing",
+            "href": "https://www.acwing.com",
+            "desc": "AcWing,Leetcode,题解,编程,算法,一个专属于程序员的平台，为大家在漫漫的刷题之旅中，提供最优质的解答",
+            "logo": "https://cdn.acwing.com/static/web/img/favicon.ico"
+          },
+          {
+            "name": "Go 语言中文网",
+            "href": "https://studygolang.com/",
+            "desc": "Go语言中文网，中国 Golang 社区，Go语言学习园地，致力于构建完善的 Golang 中文社区，Go语言爱好者的学习家园。分享 Go 语言知识，交流使用经验",
+            "logo": "https://static.golangjob.cn/static/img/favicon.ico"
+          },
+          {
+            "name": "C 语言中文网",
+            "href": "http://c.biancheng.net/",
+            "desc": "C语言中文网是中国领先的C语言程序设计专业网站，提供C语言入门经典教程、C语言编译器、C语言函数手册，C语言编程技巧，C语言考试试题等，是学习、自学C语言程序设计的好帮手。",
+            "logo": "http://c.biancheng.net/favicon.ico?v=1.6.85"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "资源",
+    "icon": "czs-bookmark-l",
+    "children": [
+      {
+        "classify": "颜色",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "nipponcolors",
+            "href": "https://nipponcolors.com",
+            "desc": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
+            "logo": "https://nipponcolors.com/favicon.ico"
+          },
+          {
+            "name": "中国色",
+            "href": "http://zhongguose.com",
+            "desc": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。",
+            "logo": "http://zhongguose.com/img/favicon.ico"
+          },
+          {
+            "name": "Color hunt",
+            "href": "https://colorhunt.co/",
+            "desc": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+            "logo": "https://colorhunt.co/img/color-hunt-logo-face.svg"
+          },
+          {
+            "name": "dev.to",
+            "href": "https://dev.to/",
+            "desc": "技术社区",
+            "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+          },
+          {
+            "name": "digitalocean",
+            "href": "https://digitalocean.com",
+            "desc": "教程",
+            "logo": "https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png"
+          }
+        ]
+      },
+      {
+        "classify": "图片",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "Pixabay",
+            "href": "https://pixabay.com/zh/",
+            "desc": "Pixabay是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用Pixabay图库中的素材，无惧版权风险。",
+            "logo": "https://pixabay.com/favicon-32x32.png"
+          }
+        ]
+      },
+      {
+        "classify": "Emoj",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "Get Emoji",
+            "href": "https://getemoji.com/",
+            "desc": "Copy and paste every emoji with 👍 no apps required. 😊🥺😉😍😘😚😜😂😝😳😁😣😢😭😰🥰",
+            "logo": "https://getemoji.com/assets/ico/favicon.png"
+          },
+          {
+            "name": "emojicopy",
+            "href": "https://www.emojicopy.com/",
+            "desc": "Our new mobile-friendly web app provides a simple, beautiful emoji copy and paste keyboard interface WITH search and auto-copy technology.",
+            "logo": "https://www.emojicopy.com/assets/icons/favicon.ico?v=vMMb8dyELz"
+          }
+        ]
+      },
+      {
+        "classify": "字体",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "Fontspace",
+            "href": "https://www.fontspace.com",
+            "desc": "Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.",
+            "logo": "https://www.fontspace.com/favicon.ico?v=00Bdv4Q5g6"
+          }
+        ]
+      },
+      {
+        "classify": "设计",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "Collectui",
+            "href": "https://collectui.com/designs",
+            "desc": "Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.",
+            "logo": "https://collectui.com/img/favicon.ico"
+          }
+        ]
+      },
+      {
+        "classify": "电子书",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "书籍知识库",
+            "href": "https://book.zhishikoo.com",
+            "desc": "书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站",
+            "logo": "https://book.zhishikoo.com/wp-content/uploads/2019/09/ico.png"
+          },
+          {
+            "name": "书行天下",
+            "href": "https://www.sxpdf.com/",
+            "desc": "书行天下| PDF电子书学习下载站",
+            "logo": "https://www.sxpdf.com/wp-content/themes/begin/img/favicon.ico"
+          },
+          {
+            "name": "快吧软件",
+            "href": "http://www.fast8.cc/",
+            "desc": "好东西，就是要分享！倡导互联网分享精神，致力于精品收藏与分享！人人为我，我为人人！本站分享好东西包括：电脑软件,手机应用,电子书,精品源码,最新电影,Kindle电子书,网页模版,视频教程等",
+            "logo": "http://www.fast8.cc/favicon.ico"
+          },
+          {
+            "name": "我爱电子书",
+            "href": "https://www.52doc.com",
+            "desc": "精品电子书分享,每天分享大量PDF电子书,为您提供优质的PDF高清电子书,免费电子书下载服务",
+            "logo": "https://www.52doc.com/assets/favicon-5051d0edf8c53d04eaebd0c041b0ad816d4c3123178925a8817926e3ca1551a8.ico"
+          }
+        ]
+      },
+      {
+        "classify": "Awesome 系列",
+        "icon": "czs-bookmark-l",
+        "sites":[
+          {
+            "name": "花裤衩的个人收藏夹",
+            "href": "https://panjiachen.github.io/awesome-bookmarks/",
+            "desc": "花裤衩的个人收藏夹",
+            "logo": "https://panjiachen.github.io/awesome-bookmarks/favicon.ico"
+          },
+          {
+            "name": "Awesome React Native",
+            "href": "https://www.awesome-react-native.com/",
+            "desc": "Awesome React Native | components, news, tools, and learning material",
+            "logo": "https://www.awesome-react-native.com/icons/icon-144x144.png?v=94f25015473a8e316fbd8117961df215"
+          },
+          {
+            "name": "Awesome Go",
+            "href": "https://awesome-go.com/",
+            "desc": "A curated list of awesome Go / Golang frameworks, libraries and software",
+            "logo": "https://awesome-go.com/favicon.ico"
+          },
+          {
+            "name": "CS-Awesome-Courses",
+            "href": "https://github.com/jackwener/CS-Awesome-Courses",
+            "desc": "计算机的优秀课程",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Awesome-Front-End",
+            "href": "https://github.com/helloqingfeng/Awsome-Front-End-learning-resource",
+            "desc": "GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "awesome-vue",
+            "href": "https://github.com/vuejs/awesome-vue",
+            "desc": "A curated list of awesome things related to Vue.js",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "工具箱",
+    "icon": "czs-bookmark-l",
+    "children": [
+      {
+        "classify": "awesome",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "atoolbox",
+            "href": "http://www.atoolbox.net",
+            "desc": "一个工具箱网站致力于为您打造一个好用便捷的在线工具箱，无需注册和下载安装即可免费使用各种在线工具，囊括了视频音频、加密解密、文字编辑、编程开发、单位换算、日期时间、图形图像、金融服务、日常生活、查询服务等诸多种类的在线工具。",
+            "logo": "http://www.atoolbox.net/favicon.ico"
+          },
+          {
+            "name": "tool.lu",
+            "href": "https://tool.lu/",
+            "desc": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
+            "logo": "https://tool.lu/favicon.ico"
+          },
+          {
+            "name": "BFW 在线工具箱",
+            "href": "https://tool.bfw.wiki/",
+            "desc": "bfwtools是bfw推出的在线工具箱，打开浏览器就能运行，工具箱包括在线代码压缩、在线图像处理、在线JSON工具、在线编码转换、在线加密解密、在线时间转换、在线格式化、在线文本对比、在线颜色转换、在线正则匹配、在线数据库工具、在线字符大全",
+            "logo": "https://tool.bfw.wiki/favicon.ico"
+          },
+          {
+            "name": "67tool",
+            "href": "https://www.67tool.com/",
+            "desc": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
+            "logo": "https://www.67tool.com/favicon.ico"
+          },
+          {
+            "name": "发现导航",
+            "href": "https://www.nav3.cn/#/light",
+            "desc": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+            "logo": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png"
+          }
+        ]
+      },
+      {
+        "classify": "图片处理",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "Squoosh",
+            "href": "https://squoosh.app/",
+            "desc": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+            "logo": "https://squoosh.app/c/favicon-c9cf50ef.ico"
+          },
+          {
+            "name": "iLoveIMG | 图像文件在线编辑工具",
+            "href": "https://tool.lu/",
+            "desc": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
+            "logo": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
+          },
+          {
+            "name": "jinaconvert",
+            "href": "https://tool.bfw.wiki/",
+            "desc": "在线免费转化所有的图片格式，支持的图片格式包括：JPG, PNG, Gif, BMP, tiff, ico, pnm, pbm, ppm, pgm和svg……",
+            "logo": "https://jinaconvert.com/favicon.ico"
+          },
+          {
+            "name": "67tool",
+            "href": "https://www.67tool.com/",
+            "desc": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
+            "logo": "https://www.67tool.com/favicon.ico"
+          },
+          {
+            "name": "发现导航",
+            "href": "https://www.nav3.cn/#/light",
+            "desc": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+            "logo": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png"
+          }
+        ]
+      },
+      {
+        "classify": "文件处理",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "compresss",
+            "href": "https://www.compresss.com/",
+            "desc": "Compress HTML, CSS, JS, JPG, PNG, GIF, SVG, WEBP, PDF, WORD, EXCEL, PPT, MP4 or MP3 files online in batch mode.",
+            "logo": "https://www.compresss.com/favicon.ico"
+          },
+          {
+            "name": "iLoveIMG",
+            "href": "https://www.iloveimg.com/zh-cn",
+            "desc": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
+            "logo": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
+          },
+          {
+            "name": "jinaconvert",
+            "href": "https://tool.bfw.wiki/",
+            "desc": "在线免费转化所有的图片格式，支持的图片格式包括：JPG, PNG, Gif, BMP, tiff, ico, pnm, pbm, ppm, pgm和svg……",
+            "logo": "https://jinaconvert.com/favicon.ico"
+          },
+          {
+            "name": "onlineimagetool",
+            "href": "https://www.onlineimagetool.com/zh/",
+            "desc": "免费在线优化图片-没有使用限制，没有文件大小限制。一键即可批量处理图片。",
+            "logo": "https://www.onlineimagetool.com/resources/static/1.0.0/images/logo/icon_logo.png"
+          },
+          {
+            "name": "onlineconvertfree",
+            "href": "https://onlineconvertfree.com/zh/",
+            "desc": "使用OnlineConvertFree在线免费转换软件，能既免费又快转换各种文件、图片、视频、音频和照片等。",
+            "logo": "https://onlineconvertfree.com/favicon.ico"
+          },
+          {
+            "name": "tinypng",
+            "href": "https://tinypng.com/",
+            "desc": "Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!",
+            "logo": "https://tinypng.com/images/favicon.ico"
+          },
+          {
+            "name": "bearaudiotool",
+            "href": "https://www.bearaudiotool.com/zh",
+            "desc": "一个免费的在线MP3剪辑器，你可以直接在浏览器里剪切，裁剪，合并，分割你的音频文件。不用安装其它软件，也不用上传音频文件到服务器。",
+            "logo": "https://www.bearaudiotool.com/img/favicon.ico"
+          }
+        ]
+      }
+    ]
+  }
+]
