@@ -1,11 +1,11 @@
 [
   {
     "category": "社区",
-    "icon": "czs-bookmark-l",
+    "icon": "czs-airplane",
     "children": [
       {
         "classify": "技术社区",
-        "icon": "czs-analysis",
+        "icon": "czs-bot-l",
         "sites": [
           {
             "name": "掘金",
@@ -47,7 +47,7 @@
       },
       {
         "classify": "论坛",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-bar-chart-l",
         "sites": [
           {
             "name": "v2ex",
@@ -65,7 +65,7 @@
       },
       {
         "classify": "教学",
-        "icon": "czs-analysis",
+        "icon": "czs-battery-l",
         "sites": [
           {
             "name": "acwing",
@@ -91,11 +91,11 @@
   },
   {
     "category": "资源",
-    "icon": "czs-bookmark-l",
+    "icon": "czs-bevel",
     "children": [
       {
         "classify": "颜色",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-block-l",
         "sites": [
           {
             "name": "nipponcolors",
@@ -119,7 +119,7 @@
       },
       {
         "classify": "图片",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-board-l",
         "sites": [
           {
             "name": "Pixabay",
@@ -131,7 +131,7 @@
       },
       {
         "classify": "Emoj",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-box-l",
         "sites": [
           {
             "name": "Get Emoji",
@@ -149,7 +149,7 @@
       },
       {
         "classify": "字体",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-briefcase-l",
         "sites": [
           {
             "name": "Fontspace",
@@ -161,7 +161,7 @@
       },
       {
         "classify": "设计",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-building-l",
         "sites": [
           {
             "name": "Collectui",
@@ -173,7 +173,7 @@
       },
       {
         "classify": "电子书",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-books-l",
         "sites": [
           {
             "name": "书籍知识库",
@@ -203,7 +203,7 @@
       },
       {
         "classify": "Awesome 系列",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-calendar-l",
         "sites": [
           {
             "name": "花裤衩的个人收藏夹",
@@ -283,11 +283,11 @@
   },
   {
     "category": "工具箱",
-    "icon": "czs-bookmark-l",
+    "icon": "czs-car-l",
     "children": [
       {
         "classify": "awesome",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-category-l",
         "sites": [
           {
             "name": "atoolbox",
@@ -317,7 +317,7 @@
       },
       {
         "classify": "导航站",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-chemistry-l",
         "sites": [
           {
             "name": "Bio & IT 网址导航",
@@ -341,7 +341,7 @@
       },
       {
         "classify": "图片处理",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-coin-l",
         "sites": [
           {
             "name": "Squoosh",
@@ -401,7 +401,7 @@
       },
       {
         "classify": "其他",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-command-l",
         "sites": [
           {
             "name": "jsoncn",
@@ -457,11 +457,11 @@
   },
   {
     "category": "学习资料",
-    "icon": "czs-bookmark-l",
+    "icon": "czs-doc-file-l",
     "children": [
       {
         "classify": "技术周刊",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-computer-l",
         "sites": [
           {
             "name": "前端精读周刊",
@@ -497,7 +497,7 @@
       },
       {
         "classify": "技术自媒体",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-credit-card-l",
         "sites": [
           {
             "name": "木易杨前端进阶",
@@ -527,7 +527,7 @@
       },
       {
         "classify": "手册",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-cube-l",
         "sites": [
           {
             "name": "caniuse",
@@ -569,7 +569,7 @@
       },
       {
         "classify": "学习指南",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-dashboard-l",
         "sites": [
           {
             "name": "Underscore Analysis",
@@ -701,7 +701,7 @@
       },
       {
         "classify": "博客",
-        "icon": "czs-bookmark-l",
+        "icon": "czs-dev-board-l",
         "sites": [
           {
             "name": "冴羽的博客",
