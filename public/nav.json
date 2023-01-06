@@ -312,6 +312,18 @@
             "href": "https://www.67tool.com/",
             "desc": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
             "logo": "https://www.67tool.com/favicon.ico"
+          }
+        ]
+      },
+      {
+        "classify": "导航站",
+        "icon": "czs-bookmark-l",
+        "sites": [
+          {
+            "name": "Bio & IT 网址导航",
+            "href": "https://nav.bioitee.com/",
+            "desc": "Bio & IT 网址导航 | WebStack-Hugo",
+            "logo": "https://static.bioitee.com/webstack/sites/favicon.png"
           },
           {
             "name": "发现导航",
@@ -546,6 +558,12 @@
             "href": "https://wangdoc.com/",
             "desc": "网道（WangDoc.com）是一个文档网站，提供互联网开发文档",
             "logo": "https://wangdoc.com/assets/icons/favicon-32x32.png"
+          },
+          {
+            "name": "Quick Reference",
+            "href": "https://wangchujiang.com/reference/",
+            "desc": "为开发人员分享快速参考备忘清单【速查表】。这是英文版 Reference 的中文版本，目的是为了方便自己的技术栈查阅，如果您提供一个清单，我将抽空搬运，立即撸起来 :)。如果您发现此处的备忘单不合适，您可以通过提交 PR 来修复它或提供更好的备忘清单，只针对【中文】用户。以下是开源天使提供的一些备忘清单和快速参考 :)。，为开发人员分享快速参考备忘单。",
+            "logo": "https://image.xjq.icu/2023/1/6/1672998209817_Quick%20Reference.svg"
           }
         ]
       },
@@ -648,6 +666,12 @@
             "href": "https://github.com/jaywcjlove/mysql-tutorial",
             "desc": "MySQL入门教程（MySQL tutorial book）",
             "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "nginx-tutorial",
+            "href": "https://github.com/jaywcjlove/nginx-tutorial",
+            "desc": "Nginx安装维护入门学习笔记，以及各种实例。",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
           }
         ]
       },
@@ -666,6 +690,12 @@
             "href": "https://antfu.me/posts",
             "desc": "Anthony Fu's Portfolio",
             "logo": "https://antfu.me/favicon.svg"
+          },
+          {
+            "name": "jaywcjlove",
+            "href": "https://wangchujiang.com/handbook/",
+            "desc": "jaywcjlove 笔记/搜集/摘录/实践",
+            "logo": "https://image.xjq.icu/2023/1/6/1672998386822_jaywcjlove.png"
           }
         ]
       }
