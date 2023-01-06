@@ -672,6 +672,30 @@
             "href": "https://github.com/jaywcjlove/nginx-tutorial",
             "desc": "Nginx安装维护入门学习笔记，以及各种实例。",
             "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "Docker — 从入门到实践",
+            "href": "https://yeasy.gitbook.io/docker_practice/",
+            "desc": "Docker — 从入门到实践",
+            "logo": "https://app.gitbook.com/public/emojis/1f680.png?v=6.0.0"
+          },
+          {
+            "name": "Front End Interview Handbook",
+            "href": "https://www.frontendinterviewhandbook.com/zh",
+            "desc": "Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more!",
+            "logo": "https://www.frontendinterviewhandbook.com/zh/img/favicon.png"
+          },
+          {
+            "name": "greatfrontend",
+            "href": "https://www.greatfrontend.com/",
+            "desc": "The complete preparation platform for front end interviews. 180+ practice questions (with answers) across system design, UI and more. By ex-FAANG interviewers.",
+            "logo": "https://www.greatfrontend.com/favicon.ico"
+          },
+          {
+            "name": "大圣前端进阶指南",
+            "href": "https://shengxinjing.cn/interview/",
+            "desc": "面试题精讲 | 大圣前端进阶指南",
+            "logo": "https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png"
           }
         ]
       },
