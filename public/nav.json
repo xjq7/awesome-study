@@ -804,6 +804,18 @@
             "href": "https://q.shanyue.tech/",
             "desc": "大厂面试题每日一题",
             "logo": "https://q.shanyue.tech/favicon.ico"
+          },
+          {
+            "name": "2022前端面试题+知识库汇总",
+            "href": "https://github.com/evestorm/front-end-interview",
+            "desc": "2022前端面试题+知识库汇总",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "语音打卡社群维护的前端面试题库",
+            "href": "https://github.com/febobo/web-interview",
+            "desc": "不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
           }
         ]
       }
