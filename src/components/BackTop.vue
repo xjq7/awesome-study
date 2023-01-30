@@ -12,8 +12,14 @@
 export default {
   methods: {
     goTop() {
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
+      if (window.elevator) {
+        window.elevator.elevate();
+      } else {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth',
+        });
+      }
     },
   },
 };

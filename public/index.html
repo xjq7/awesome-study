@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="https://image.xjq.icu/2023/1/6/1672972760315_study.ico">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="https://image.xjq.icu/2023/1/6/1672972760315_study.ico" />
+
     <title>awesome study</title>
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but awesome study doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong
+        >We're sorry but awesome study doesn't work properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
     </noscript>
     <div id="app"></div>
-    <!-- built files will be auto injected -->
+    <script crossorigin="anonymous" src="https://image.xjq.icu/2023/1/7/1673067803514_elevator.min.js"></script>
+    <script>
+      window.onload = () => {
+        window.elevator = new Elevator({
+          mainAudio: './elevator.mp3',
+          endAudio: './ding.mp3',
+        });
+      };
+    </script>
   </body>
 </html>
