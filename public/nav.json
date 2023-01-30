@@ -722,6 +722,90 @@
             "logo": "https://image.xjq.icu/2023/1/6/1672998386822_jaywcjlove.png"
           }
         ]
+      },
+      {
+        "classify": "面试指北",
+        "icon": "czs-dev-board-l",
+        "sites": [
+          {
+            "name": "前端面试题宝典",
+            "href": "https://fe.ecool.fun/",
+            "desc": "《前端面试题宝典》的目标是做全网最专业的的前端面试题库，为初、中级前端工程师提供面试题的刷题及面试技巧指导服务",
+            "logo": "https://fe.ecool.fun/fe.ico"
+          },
+          {
+            "name": "前端面试每日3+1",
+            "href": "http://www.h-camel.com/index.html",
+            "desc": "前端面试每日3+1,题库,前端,面试,html,css,javascript,软技能,interview,frontend-interview",
+            "logo": "http://www.h-camel.com/statics/images/favicon.ico"
+          },
+          {
+            "name": "木易杨前端进阶",
+            "href": "https://muyiy.cn/",
+            "desc": "高级前端进阶之路",
+            "logo": "https://muyiy.cn/favicon.ico"
+          },
+          {
+            "name": "javascript-interview-questions",
+            "href": "https://github.com/sudheerj/javascript-interview-questions",
+            "desc": "List of 1000 JavaScript Interview Questions",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "前端赏金猎人",
+            "href": "https://github.com/BetaSu/fe-hunter",
+            "desc": "每天一道题，3个月后，你就是面试小能手",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "剑指前端 Offer",
+            "href": "https://febook.hzfe.org/awesome-interview/",
+            "desc": "HZFE - 剑指前端 Offer",
+            "logo": "https://febook.hzfe.org/awesome-interview/img/favicon.ico"
+          },
+          {
+            "name": "前端面试复习笔记",
+            "href": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+            "desc": "前端面试复习笔记",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "JavaScript Guidebook",
+            "href": "https://tsejx.github.io/javascript-guidebook/",
+            "desc": "JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers",
+            "logo": "https://tsejx.github.io/javascript-guidebook/favicon.ico"
+          },
+          {
+            "name": "前端知识库",
+            "href": "https://www.html5iq.com/index.html",
+            "desc": "前端知识库，前端试题库",
+            "logo": "https://img.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico"
+          },
+          {
+            "name": "若川的博客",
+            "href": "https://lxchuan12.gitee.io/",
+            "desc": "若川，微信搜索「若川视野」关注我，长期交流学习。写有《学习源码整体架构系列》。包含jquery源码、underscore源码、lodash源码、sentry源码、vuex源码、axios源码、koa源码、redux源码。前端路上，PPT爱好者，所知甚少，唯善学。",
+            "logo": "https://lxchuan12.gitee.io/favicon.ico"
+          },
+          {
+            "name": "前端知识进阶",
+            "href": "https://github.com/dennis-jiang/Front-End-Knowledges",
+            "desc": "前端知识进阶",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "前端面试题,前端面试刷题",
+            "href": "http://bigerfe.com/",
+            "desc": "这里是大前端面试题库，搜集了众多经典高频前端面试题和大厂前端面试题以及相关代码题，再也不用花力气去找前端面试题了。",
+            "logo": "http://qiniu.bigerfe.com/logo2.jpg"
+          },
+          {
+            "name": "大厂面试题每日一题",
+            "href": "https://q.shanyue.tech/",
+            "desc": "大厂面试题每日一题",
+            "logo": "https://q.shanyue.tech/favicon.ico"
+          }
+        ]
       }
     ]
   }
