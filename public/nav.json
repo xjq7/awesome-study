@@ -198,6 +198,12 @@
             "href": "https://www.52doc.com",
             "desc": "精品电子书分享,每天分享大量PDF电子书,为您提供优质的PDF高清电子书,免费电子书下载服务",
             "logo": "https://www.52doc.com/assets/favicon-5051d0edf8c53d04eaebd0c041b0ad816d4c3123178925a8817926e3ca1551a8.ico"
+          },
+          {
+            "name": "expert_readed_books",
+            "href": "https://github.com/0voice/expert_readed_books",
+            "desc": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
           }
         ]
       },
@@ -815,6 +821,24 @@
             "name": "语音打卡社群维护的前端面试题库",
             "href": "https://github.com/febobo/web-interview",
             "desc": "不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题",
+            "logo": "https://github.githubassets.com/favicons/favicon.png"
+          },
+          {
+            "name": "JavaScript  Interview Questions and Answers (2023) - InterviewBit",
+            "href": "https://www.interviewbit.com/javascript-interview-questions/",
+            "desc": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies",
+            "logo": "https://assets.interviewbit.com/assets/ibpp/favicon-fcc4f9cdd2e768e1a9c0b884239242138fd250486c634d791103a152eee669a1.ico.gz"
+          },
+          {
+            "name": "BFE.dev - prepare for Front-End job interviews.",
+            "href": "https://bigfrontend.dev",
+            "desc": "BFE.dev is a place to practice Front-End dev skills, discuss with others, get ready for interviews and get get your dream offer.",
+            "logo": "https://bigfrontend.dev/static/img/logo@192x192.png"
+          },
+          {
+            "name": "reactjs-interview-questions",
+            "href": "https://github.com/sudheerj/reactjs-interview-questions",
+            "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
             "logo": "https://github.githubassets.com/favicons/favicon.png"
           }
         ]
