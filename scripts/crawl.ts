@@ -24,6 +24,7 @@ async function parseFromUrl(url: string): Promise<NetInfo> {
   let title = '',
     description = '',
     logo = '',
+    keywords = '',
     href = url;
   const res = await request(url);
   const dom = htmlparser2.parseDocument(res.data);
@@ -40,26 +41,44 @@ async function parseFromUrl(url: string): Promise<NetInfo> {
     });
 
     if (headTag) {
-      [title, description, logo] = (headTag as Element).children.reduce(
+      [title, description, logo, keywords] = (headTag as Element).children.reduce(
         (acc, o) => {
           const { name, attribs } = o as Element;
-          if (name === 'meta') {
+          if (name === 'meta' && !acc[1]) {
             const { name, content } = attribs;
             if (name === 'description') {
               acc[1] = content;
             }
           }
 
-          if (name === 'title') {
-            const text = (o as Element).children.reduce((acc, o) => {
-              return acc + (o as Text).data;
-            }, '');
-            acc[0] = text;
+          if (name === 'meta' && !acc[3]) {
+            const { name, content } = attribs;
+            if (name === 'keywords') {
+              acc[3] = content;
+            }
           }
 
-          if (name === 'link') {
-            const { rel, href } = attribs;
+          if (name === 'title' && !acc[0]) {
+            let text = (o as Element).children.reduce((acc, o) => {
+              return acc + (o as Text).data;
+            }, '');
+
+            if (/https:\/\/github.com/g.test(url)) {
+              text = text.match(/(?<=:).*/g)?.[0] || text;
+            }
+            acc[0] = text.trim();
+          }
+
+          if (name === 'meta' && !acc[2]) {
+            const { itemprop, content } = attribs;
+            if (itemprop === 'image') {
+              acc[2] = content;
+            }
+          }
+          if (name === 'link' && !acc[2]) {
+            let { rel, href } = attribs;
             if (rel === 'icon') {
+              if (!/https?:\/\//g.test(href)) href = url + href;
               acc[2] = href;
             }
           }
@@ -71,6 +90,8 @@ async function parseFromUrl(url: string): Promise<NetInfo> {
     }
   }
 
+  if (!description) description = keywords;
+
   return {
     title,
     description,
@@ -81,8 +102,7 @@ async function parseFromUrl(url: string): Promise<NetInfo> {
 
 program.option('-u, --url <url>').action(async (params) => {
   const { url } = params;
-
-  let spinner = ora();
+  let spinner: any;
   try {
     let spinner = ora('抓取网页内容...').start();
     const { title, description, logo, href } = await parseFromUrl(url);
@@ -138,7 +158,8 @@ program.option('-u, --url <url>').action(async (params) => {
     console.log('解析成功!');
   } catch (error: any) {
     console.log('解析出错:', error.message);
-    spinner.clear();
+  } finally {
+    spinner && spinner.stop();
   }
 });
 
