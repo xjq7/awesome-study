@@ -842,10 +842,34 @@
             "logo": "https://github.githubassets.com/favicons/favicon.png"
           },
           {
-            "name": "GitHub - eliaszon/Programmers-Overseas-Job-Interview-Handbook: 🏂🏻 程序员海外工作/英文面试手册",
+            "name": "🏂🏻 程序员海外工作/英文面试手册",
             "logo": "https://github.githubassets.com/favicons/favicon.svg",
             "desc": "🏂🏻 程序员海外工作/英文面试手册. Contribute to eliaszon/Programmers-Overseas-Job-Interview-Handbook development by creating an account on GitHub.",
             "href": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook"
+          },
+          {
+            "name": "【前端工程师面试宝典】学习说明_互联网校招面试真题面经汇总_牛客网",
+            "logo": "https://static.nowcoder.com/images/logo_web_300.png",
+            "desc": "前端工程师校招求职面试宝典，覆盖了众多互联网IT名企面试真题，面经汇总合集，包含了前端基础、前端核心、前端进阶、移动端开发、数据库、算法与数据结构、计算机网络、操作系统、项目相关、设计模式、智力题、场景题，覆盖腾讯/阿里/百度/字节跳动/网易/京东/美团/滴滴/华为/小米/google/字节跳动/携程/360/搜狗/新浪/微软/去哪儿等公司。__牛客网_牛客在手,offer不愁",
+            "href": "https://www.nowcoder.com/issue/tutorial?tutorialId=96"
+          },
+          {
+            "name": "前端面试题集锦 - by paddingme",
+            "logo": "https://fe.padding.me/_media//android-icon-192x192.png",
+            "desc": "前端面试题集锦,包括前端笔试题,面经,简历等找工作方面的知识储备",
+            "href": "https://fe.padding.me"
+          },
+          {
+            "name": "大前端面试宝典 - 图解前端",
+            "logo": "https://lucifer.ren/favicon.ico",
+            "desc": "Description",
+            "href": "https://lucifer.ren/fe-interview"
+          },
+          {
+            "name": "技术面试最后反问面试官的话",
+            "logo": "https://github.githubassets.com/favicons/favicon.svg",
+            "desc": "技术面试最后反问面试官的话. Contribute to yifeikong/reverse-interview-zh development by creating an account on GitHub.",
+            "href": "https://github.com/yifeikong/reverse-interview-zh"
           }
         ]
       }
