@@ -77,7 +77,7 @@ async function parseFromUrl(url: string): Promise<NetInfo> {
           }
           if (name === 'link' && !acc[2]) {
             let { rel, href } = attribs;
-            if (rel === 'icon') {
+            if (rel === 'icon' || rel === 'shortcut icon') {
               if (!/https?:\/\//g.test(href)) href = url + href;
               acc[2] = href;
             }
