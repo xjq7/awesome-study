@@ -42,6 +42,12 @@
             "href": "https://mdnice.com/",
             "desc": "墨滴社区是一个看颜值的文章社区，技术、数学、文学文章汇集，极具趣味性，其开发的 mdnice 编辑器是一款 Markdown 微信编辑器,拥有良好的兼容性、海量主题样式、免费的图床。GitHub、StackOverflow、稀土掘金、简书的用户也能在这里有所收益。",
             "logo": "https://mdnice.com/favicon.svg"
+          },
+          {
+            "name": "HeapDump 性能社区",
+            "logo": "https://heapdump.cn//favicon.ico?v=3",
+            "desc": "学习性能知识、交流性能经验、寻求性能服务、招揽性能人才，有性能问题，上HeapDump性能社区。HeapDump性能社区是国内首个专注性能领域的技术社区，十几万开发者在这里讨论和分享JVM/Java/Linux操作系统/数据库/中间件/前端/客户端等性能相关技术，并积累了大量内存泄漏、线程阻塞、Full GC、数据库和中间件等性能问题和诊断调优实践案例，同时还有几十个阿里腾讯百度华为的性能技术专家通过性能问答、性能课程、性能训练营等形式常驻为您传道授业答疑解惑。",
+            "href": "https://heapdump.cn/"
           }
         ]
       },
