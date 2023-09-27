@@ -48,6 +48,12 @@
             "logo": "https://heapdump.cn//favicon.ico?v=3",
             "desc": "学习性能知识、交流性能经验、寻求性能服务、招揽性能人才，有性能问题，上HeapDump性能社区。HeapDump性能社区是国内首个专注性能领域的技术社区，十几万开发者在这里讨论和分享JVM/Java/Linux操作系统/数据库/中间件/前端/客户端等性能相关技术，并积累了大量内存泄漏、线程阻塞、Full GC、数据库和中间件等性能问题和诊断调优实践案例，同时还有几十个阿里腾讯百度华为的性能技术专家通过性能问答、性能课程、性能训练营等形式常驻为您传道授业答疑解惑。",
             "href": "https://heapdump.cn/"
+          },
+          {
+            "name": "MongoDB中文社区",
+            "logo": "https://mongoing.com/wp-content/uploads/2020/04/43fc3acfe8b8fe3-32x32.png",
+            "desc": "中文社区",
+            "href": "https://mongoing.com/"
           }
         ]
       },
@@ -90,6 +96,18 @@
             "href": "http://c.biancheng.net/",
             "desc": "C语言中文网是中国领先的C语言程序设计专业网站，提供C语言入门经典教程、C语言编译器、C语言函数手册，C语言编程技巧，C语言考试试题等，是学习、自学C语言程序设计的好帮手。",
             "logo": "http://c.biancheng.net/favicon.ico?v=1.6.85"
+          },
+          {
+            "name": "Hello 算法",
+            "logo": "https://www.hello-algo.comassets/images/favicon.png",
+            "desc": "动画图解、一键运行的数据结构与算法教程",
+            "href": "https://www.hello-algo.com"
+          },
+          {
+            "name": "Practice Speaking English Online Free - Language Practice Community",
+            "logo": "https://www.free4talk.com/favicon.ico",
+            "desc": "The best website of practicing English speaking, easy to find a conversation partner, improve your English speaking skills, make friends, language exchange ...",
+            "href": "https://www.free4talk.com"
           }
         ]
       }
@@ -132,6 +150,12 @@
             "href": "https://pixabay.com/zh/",
             "desc": "Pixabay是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用Pixabay图库中的素材，无惧版权风险。",
             "logo": "https://pixabay.com/favicon-32x32.png"
+          },
+          {
+            "name": "Awesome Wallpapers - wallhaven.cc",
+            "logo": "https://wallhaven.cc/favicon.ico",
+            "desc": "Your source for the best high quality wallpapers on the Net!",
+            "href": "https://wallhaven.cc"
           }
         ]
       },
