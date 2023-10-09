@@ -4,7 +4,7 @@
     "icon": "czs-airplane",
     "children": [
       {
-        "classify": "技术社区",
+        "classify": "开发",
         "icon": "czs-bot-l",
         "sites": [
           {
@@ -924,6 +924,12 @@
             "logo": "https://github.githubassets.com/favicons/favicon.svg",
             "desc": "技术面试最后反问面试官的话. Contribute to yifeikong/reverse-interview-zh development by creating an account on GitHub.",
             "href": "https://github.com/yifeikong/reverse-interview-zh"
+          },
+          {
+            "name": "本书介绍 · 前端工程师面试宝典",
+            "logo": "https://fecommunity.github.io/front-end-interviewgitbook/images/favicon.ico",
+            "desc": "",
+            "href": "https://fecommunity.github.io/front-end-interview"
           }
         ]
       }
