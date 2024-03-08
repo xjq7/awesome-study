@@ -930,6 +930,18 @@
             "logo": "https://fecommunity.github.io/front-end-interviewgitbook/images/favicon.ico",
             "desc": "",
             "href": "https://fecommunity.github.io/front-end-interview"
+          },
+          {
+            "name": "Java 面试指南 | JavaGuide",
+            "logo": "https://javaguide.cn/favicon.ico",
+            "desc": "「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+            "href": "https://javaguide.cn"
+          },
+          {
+            "name": "JAVACORE",
+            "logo": "https://dunwu.github.io/javacore/javacore/img/favicon.ico",
+            "desc": "☕ JavaCore 是一个 Java 核心技术教程。",
+            "href": "https://dunwu.github.io/javacore"
           }
         ]
       }
