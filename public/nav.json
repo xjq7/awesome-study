@@ -582,6 +582,12 @@
             "href": "https://wubaiqing.github.io/zaobao/",
             "desc": "每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。",
             "logo": ""
+          },
+          {
+            "name": "Jack Cui | 关注人工智能及互联网的个人网站",
+            "logo": "https://cuijiahua.com/wp-content/uploads/2018/01/favicon-1.ico",
+            "desc": "Jack Cui网站是关注互联网以及分享人工智能相关知识的个人网站，主要涵盖了机器学习、深度学习、网络爬虫等经验教程。我的网站宗旨：把最实用的经验，分享给最需要的读者，希望每一个来访的朋友都能有所收获！",
+            "href": "https://cuijiahua.com"
           }
         ]
       },
@@ -756,6 +762,18 @@
             "href": "https://shengxinjing.cn/interview/",
             "desc": "面试题精讲 | 大圣前端进阶指南",
             "logo": "https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png"
+          },
+          {
+            "name": "Java 全栈知识体系",
+            "logo": "https://www.pdai.tech/favicon.ico",
+            "desc": "包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...",
+            "href": "https://www.pdai.tech"
+          },
+          {
+            "name": "Java",
+            "logo": "https://gitee.com/duhouan/ImagePro/raw/master/logo.png",
+            "desc": "Description",
+            "href": "https://duhouan.github.io/Java/#/"
           }
         ]
       },
@@ -780,6 +798,12 @@
             "href": "https://wangchujiang.com/handbook/",
             "desc": "jaywcjlove 笔记/搜集/摘录/实践",
             "logo": "https://image.xjq.icu/2023/1/6/1672998386822_jaywcjlove.png"
+          },
+          {
+            "name": "Time Flying",
+            "logo": "https://muyunyun.cn/blog/blog/favicon.ico",
+            "desc": "",
+            "href": "https://muyunyun.cn/blog"
           }
         ]
       },
@@ -942,6 +966,12 @@
             "logo": "https://dunwu.github.io/javacore/javacore/img/favicon.ico",
             "desc": "☕ JavaCore 是一个 Java 核心技术教程。",
             "href": "https://dunwu.github.io/javacore"
+          },
+          {
+            "name": "前端随笔 FE-Essay | 前端随笔 FE-Essay",
+            "logo": "",
+            "desc": "记录前端重要知识点和遇到的好文章，同时还有前端重要算法知识，但最关键的是包含各大小厂真题。",
+            "href": "https://i-want-offer.github.io/FE-Essay"
           }
         ]
       }
