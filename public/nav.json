@@ -510,6 +510,12 @@
             "href": "https://astexplorer.net/",
             "desc": "在线 ast 语法树解析",
             "logo": "https://astexplorer.net/favicon.png"
+          },
+          {
+            "name": "explainshell.com - match command-line arguments to their help text",
+            "logo": "https://www.explainshell.com/static/img/shell.png",
+            "desc": "match command-line arguments to their help text",
+            "href": "https://www.explainshell.com"
           }
         ]
       }
