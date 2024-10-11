@@ -134,7 +134,7 @@ program.option('-u, --url <url>').action(async (params) => {
         type: 'list',
         name: 'c2',
         message: '小分类?',
-        choices: ({ c1 }) => {
+        choices: ({ c1 }: any) => {
           const c1s = nav.find((o) => {
             return o.category === c1;
           });

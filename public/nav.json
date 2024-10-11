@@ -516,6 +516,12 @@
             "logo": "https://www.explainshell.com/static/img/shell.png",
             "desc": "match command-line arguments to their help text",
             "href": "https://www.explainshell.com"
+          },
+          {
+            "name": "文件快递柜-FileCodeBox",
+            "logo": "https://share.lanol.cn/assets/logo_small.png",
+            "desc": "开箱即用的文件快传系统",
+            "href": "https://share.lanol.cn"
           }
         ]
       }
