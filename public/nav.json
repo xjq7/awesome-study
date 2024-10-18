@@ -522,6 +522,12 @@
             "logo": "https://share.lanol.cn/assets/logo_small.png",
             "desc": "开箱即用的文件快传系统",
             "href": "https://share.lanol.cn"
+          },
+          {
+            "name": "httpsok-SSL证书自动续期",
+            "logo": "https://httpsok.com/favicon.ico",
+            "desc": "一行命令,轻松搞定SSL证书自动续期,SSL证书,SSL证书管理,SSL证书自动续期,SSL 证书自动更新,https证书管理,https证书管理,证书自动续签,nginx证书自动续期工具,nginx证书管理,从此告别Let's Encrypt",
+            "href": "https://httpsok.com"
           }
         ]
       }

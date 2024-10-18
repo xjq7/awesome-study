@@ -25,14 +25,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Use Node.js 14.20.0
+      - name: Use Node.js 18.20.4
         uses: actions/setup-node@v1
         with:
-          node-version: 14.20.0
+          node-version: 18.20.4
 
       - uses: pnpm/action-setup@v4
         with:
-          version: 6.0.2
+          version: 9.12.2
 
       - name: Install Packages
         run: pnpm install
