@@ -330,6 +330,12 @@
             "logo": "https://uiverse.io//favicon-32x32.png",
             "desc": "Library of free and customizable HTML and CSS UI elements. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.",
             "href": "https://uiverse.io/"
+          },
+          {
+            "name": "Canvas资源库大全中文版。An awesome Canvas packages and resources.",
+            "logo": "https://github.githubassets.com/favicons/favicon.svg",
+            "desc": "Canvas资源库大全中文版。An awesome Canvas packages and resources. - chinaBerg/awesome-canvas",
+            "href": "https://github.com/chinaBerg/awesome-canvas"
           }
         ]
       }
@@ -528,6 +534,12 @@
             "logo": "https://httpsok.com/favicon.ico",
             "desc": "一行命令,轻松搞定SSL证书自动续期,SSL证书,SSL证书管理,SSL证书自动续期,SSL 证书自动更新,https证书管理,https证书管理,证书自动续签,nginx证书自动续期工具,nginx证书管理,从此告别Let's Encrypt",
             "href": "https://httpsok.com"
+          },
+          {
+            "name": "Excalidraw | Hand-drawn look & feel • Collaborative • Secure",
+            "logo": "https://excalidraw.com/favicon-32x32.png",
+            "desc": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+            "href": "https://excalidraw.com"
           }
         ]
       }
