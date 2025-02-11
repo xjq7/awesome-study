@@ -1008,6 +1008,12 @@
             "logo": "",
             "desc": "记录前端重要知识点和遇到的好文章，同时还有前端重要算法知识，但最关键的是包含各大小厂真题。",
             "href": "https://i-want-offer.github.io/FE-Essay"
+          },
+          {
+            "name": "前端面试派",
+            "logo": "https://www.mianshipai.com//favicon.ico",
+            "desc": "双越老师整理的前端面试真实流程，大厂面试规范，开源免费",
+            "href": "https://www.mianshipai.com/"
           }
         ]
       }
