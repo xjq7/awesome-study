@@ -840,6 +840,12 @@
             "logo": "https://muyunyun.cn/blog/blog/favicon.ico",
             "desc": "",
             "href": "https://muyunyun.cn/blog"
+          },
+          {
+            "name": "被删的前端游乐场",
+            "logo": "",
+            "desc": "Just playing around",
+            "href": "https://godbasin.github.io/front-end-playground"
           }
         ]
       },
